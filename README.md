@@ -31,7 +31,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<br/>
+<br/>
+ 
 
 <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=RamonNicolas&show_icons=true&theme=radical " />
 
