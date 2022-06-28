@@ -10,7 +10,7 @@ Agile methodology Scrum + Kanban, software used JIRA.
 Gitlab for code versioning, pipelines with CI/CD. 
 </h4>
 <h4> 
-I’m currently learning about Azure, GCP, K8s, Apache Airflow/Kafka, Hadoop.
+I’m currently learning about Azure, GCP, K8s, Apache Airflow/Kafka, Hadoop, Terraform, Data Studio, QlikView.
 Developer python and Data engineer enthusiast!
 
  
