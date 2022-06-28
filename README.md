@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 
 
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+ docker
 
 ## <br /> 🙋‍♂️ Connect with me 
 <!-- Badges template - https://github.com/Ileriayo/markdown-badges#social-->
