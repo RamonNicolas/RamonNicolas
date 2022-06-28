@@ -11,8 +11,8 @@ Gitlab for code versioning, pipelines with CI/CD.
 </h4>
 <h4> 
 I’m currently learning about Azure, GCP, K8s, Apache Airflow/Kafka, Hadoop.
-Developer python <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="20"> 
- and Data engineer enthusiast <img src="https://static.wixstatic.com/media/9546dd_4c7c5da72d574e18a271e8b939ff9f72~mv2.png" width="20"> 
+Developer python <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+ and Data engineer enthusiast
 
 
 <!--
