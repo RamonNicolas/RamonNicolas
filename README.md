@@ -11,10 +11,7 @@ Gitlab for code versioning, pipelines with CI/CD.
 </h4>
 <h4> 
 I’m currently learning about Azure, GCP, K8s, Apache Airflow/Kafka, Hadoop.
-Developer python <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
- and Data engineer enthusiast
-
-
+Developer python and Data engineer enthusiast!
 <!--
 **RamonNicolas/RamonNicolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
