@@ -8,9 +8,13 @@ Using AWS services like Lambda, DynamoDB, CloudWatch and SES from amazon.
 Agile methodology Scrum + Kanban, software used JIRA.
 Gitlab for code versioning, pipelines with CI/CD.
 </h3>
+<br/>
+<br/>
 <h3> 
-I’m currently learning about Azure, GCP, K8s, Apache Airflow/Kafka, Hadoop. 
-Developer python <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="50"> and Data engineer enthusiast <img src="https://static.wixstatic.com/media/9546dd_4c7c5da72d574e18a271e8b939ff9f72~mv2.png" width="50"> 
+I’m currently learning about Azure, GCP, K8s, Apache Airflow/Kafka, Hadoop.
+<br/>
+Developer python <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="20"> 
+ and Data engineer enthusiast <img src="https://static.wixstatic.com/media/9546dd_4c7c5da72d574e18a271e8b939ff9f72~mv2.png" width="20"> 
 
 
 <!--
