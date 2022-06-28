@@ -2,12 +2,13 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 Hello I'm Ramon Nicolas  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h1>
-<h3>
+<br/>
+<h4>
 I’m currently working on development with emphasis in python, using micro services.
 Using AWS services like Lambda, DynamoDB, CloudWatch and SES from amazon.
 Agile methodology Scrum + Kanban, software used JIRA.
 Gitlab for code versioning, pipelines with CI/CD.
-</h3>
+</h4>
 <br/>
 <br/>
 <h3> 
