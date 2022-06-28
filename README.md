@@ -9,15 +9,12 @@ Using AWS services like Lambda, DynamoDB, CloudWatch and SES from amazon.
 Agile methodology Scrum + Kanban, software used JIRA.
 Gitlab for code versioning, pipelines with CI/CD.
 </h4>
-<br/>
-<br/>
-<h3> 
+<h4> 
 I’m currently learning about Azure, GCP, K8s, Apache Airflow/Kafka, Hadoop.
-<br/>
 Developer python <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="20"> 
  and Data engineer enthusiast <img src="https://static.wixstatic.com/media/9546dd_4c7c5da72d574e18a271e8b939ff9f72~mv2.png" width="20"> 
 
-
+</h4>
 <!--
 **RamonNicolas/RamonNicolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
