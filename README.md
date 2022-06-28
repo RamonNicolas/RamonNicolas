@@ -2,6 +2,16 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 Hello I'm Ramon Nicolas  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h1>
+<h3>
+I’m currently working on development with emphasis in python, using micro services.
+Using AWS services like Lambda, DynamoDB, CloudWatch and SES from amazon.
+Agile methodology Scrum + Kanban, software used JIRA.
+Gitlab for code versioning, pipelines with CI/CD.
+</h3>
+<h3> 
+I’m currently learning about Azure, GCP, K8s, Apache Airflow/Kafka, Hadoop. 
+Developer python <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="50"> and Data engineer enthusiast <img src="https://static.wixstatic.com/media/9546dd_4c7c5da72d574e18a271e8b939ff9f72~mv2.png" width="50"> 
+
 
 <!--
 **RamonNicolas/RamonNicolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
