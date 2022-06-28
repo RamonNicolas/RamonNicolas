@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-
+<img align="left" src="https://www.clipartmax.com/png/middle/146-1469937_background-kubernetes-logo.png" />
 ## <br /> 🙋‍♂️ Connect with me 
 <!-- Badges template - https://github.com/Ileriayo/markdown-badges#social-->
 <br />
