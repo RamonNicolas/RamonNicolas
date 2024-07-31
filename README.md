@@ -7,8 +7,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/RamonNicolas](https://github.com/RamonNicolas)
 
 - 💬 Ask me about **Python**
-
-- 📫 How to reach me **ramonnicolasbeiler@gmail.com**
+- 
 - 🎯 Skills:
 Programming: Python, R
 Data Processing: ETL/ELT, AWS Glue, Athena, Step Functions
@@ -16,6 +15,7 @@ Cloud Services: AWS (RDS, S3, Lambda, DynamoDB, SES, SQS, API Gateway, ECS, EC2,
 Development: CI/CD, Clean-Arch, Microservices, CRUD, Web Services
 Soft Skills: Communication, Flexibility, Motivation, Patience, Teamwork
 
+- 📫 How to reach me **ramonnicolasbeiler@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ramon-nicolas-a33938141/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ramon-nicolas-a33938141/" height="30" width="40" /></a>
