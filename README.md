@@ -1,13 +1,20 @@
 <h1 align="center">Hi 👋, I'm Ramon Nicolas Beiler</h1>
 <h3 align="center">A passionate back-end developer from Brazil, enthusiast about Data Engineering , Cloud Architecture and DevOps.</h3>
 
-- 🌱 I’m currently learning **AWS, Apache(Kafka, Ni-fi, Airflow, HDFS), C#, GCP**
+- 🌱 I’m currently learning **(Kafka, Ni-fi, Airflow, HDFS), GCP**
+-  💻 Experienced Data Engineer with over 4 years in AWS services, data transformation, ETL/ELT processes, and microservices development. Strong in agile environments with excellent communication and teamwork skills.
 
 - 👨‍💻 All of my projects are available at [https://github.com/RamonNicolas](https://github.com/RamonNicolas)
 
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **ramonnicolasbeiler@gmail.com**
+- 🎯 Skills:
+Programming: Python, R
+Data Processing: ETL/ELT, AWS Glue, Athena, Step Functions
+Cloud Services: AWS (RDS, S3, Lambda, DynamoDB, SES, SQS, API Gateway, ECS, EC2, CloudWatch, EventBridge, VPC)
+Development: CI/CD, Clean-Arch, Microservices, CRUD, Web Services
+Soft Skills: Communication, Flexibility, Motivation, Patience, Teamwork
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
